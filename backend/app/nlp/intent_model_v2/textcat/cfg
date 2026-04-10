@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "greeting",
+    "thanks",
+    "disease_prediction",
+    "first_aid",
+    "health_assessment",
+    "unknown"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
